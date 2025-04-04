@@ -88,16 +88,10 @@ const getRandomQuestion = () => {
   }
 
   // Filter out already asked questions
-  const availableQuestions = categoryQuestions.filter((_, index) => {
-    const isInHistory = questionsIndexHistory.includes(index);
-    const hasEarlyQuestionsInHistory = questionsIndexHistory.some(
-      (histIndex) => histIndex >= 0 && histIndex <= 50
-    );
-    return (
-      !isInHistory &&
-      (!(index >= 0 && index <= 26) || !hasEarlyQuestionsInHistory)
-    );
-  });
+const availableQuestions = categoryQuestions.filter(
+  (_, index) =>
+    !questionsIndexHistory.includes(index) && !questionsIndexHistory.includes()
+); 
 
   if (availableQuestions.length === 0) {
     return showQuizResult();
