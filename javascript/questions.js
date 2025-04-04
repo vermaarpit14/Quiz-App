@@ -3,344 +3,257 @@ const questions = [
     category: "C Programming",
     questions: [
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
       {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
-        options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
-        correctAnswer: 1,
-      },
-      {
-        question:
-          'Which of them have hurt your feelings the most 💔?',
+        question: "Which of them have hurt your feelings the most 💔?",
         options: ["Kasak", "Irtiqa", "Anshika", "All have equally"],
         correctAnswer: 1,
       },
